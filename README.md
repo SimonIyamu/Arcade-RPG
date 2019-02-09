@@ -31,5 +31,6 @@ Once the game starts, you can press G at any time to display the controls.
 Enjoy :)
 
 -------------------------
-Contributors: Costas Pitharoulios, Simon Iyamu.
+
+Contributors: Costas Pitharoulios, Simon Iyamu. 
 This project was one of our assignments in the Object Oriented Programming course in 2017.
