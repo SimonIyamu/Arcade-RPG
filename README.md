@@ -1,4 +1,4 @@
-# Arcade-RPG
+# Arcade-RPG 
 This is a simulation of an RPG(role playing game) written in C++.
 
 The game has spells, heroes and monsters. Heroes and monsters live in a world that 
